@@ -10,5 +10,8 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
   }
 }
